@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+</head>
+<body>
+    <h1>Lasagna</h1><!--"https://insanelygoodrecipes.com/barilla-lasagna/" website credits-->
+    <img src="../images/Homemade-Ground-Beef-Lasagna-with-Melted-Cheese.png" alt="Picture of ground beef lasagna">
+<h2>Ground beef lasagna</h2>
+<p>Lasagna is a dish with multiple layers.Although you can be as creative as you with this dish,the main Ingriedients usually consist of ground meat,marinata sauce and cheese</p>
+<h3>Ingriedients</h3>
+<ul>
+    <li>Lasagna noodles</li>
+    <li>Marinara sauce</li>
+    <li>Ground beef </li>
+    <li>Mozzarella</li>
+</ul>
+<h3>Instructions</h3>
+<ol>
+    <li>Cook the noodles in boiling water for 4 minutes and drain with a colander. </li>
+    <li>In a large saucepan, mix sausage or ground beef and 1 1/12 of the marinara sauce. Let it simmer for 5 minutes.</li>
+    <li>In a separate bowl, mix Ricotta, 3 1/2 cups of mozzarella, Parmigiano-Reggiano, and eggs.</li>
+    <li>Grease a lasagna pan or a 9×13-inch baking dish with cooking spray.</li>
+    <li>Spread a thin layer of the marinara sauce over the baking dish, about 3/4 cup. Layer 3 to 5 lasagna noodles over the sauce. The noodles should only overlap slightly with each other. Layer the cheese mixture of the noodles, followed by the meat sauce.</li>
+    <li>Repeat the layers starting from the noodles to the meat sauce twice. Top the meat sauce with the remaining marinara sauce and sprinkle with the remaining mozzarella cheese.</li>
+    <li>Cover the baking dish with foil and bake for 30 minutes. Remove the foil and cook for an additional 10 minutes.</li>
+    <li>Let the lasagna sit for 10 minutes before slicing and serving. Enjoy!</li>
+</ol>
+</body>
+</html>
+

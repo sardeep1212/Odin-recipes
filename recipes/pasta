@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html land="en">
+<head>
+    <meta charset="UTF-8">
+</head>
+<body>
+    <h1>Pasta</h1>
+        <img src="../images/sausage-pasta-lazy-meals-1-of-3-scaled.webp" alt="Picture of sausage and green pasta">
+    <h2>Sausage and Greens pasta</h2>
+        <p>Pasta is one of the staple foods in italy,there are infinite variation to the ingredient in pasta,a perfect dish for someone who like to get creative with their cooking</p>
+    <h3>Ingriedients</h3>
+<ul><!--"https://rainbowplantlife.com/the-best-vegan-pasta-recipes/" website for credits-->
+    <li>Rigatoni</li>
+    <li>Vegan sausage</li>
+    <li>Olive oil</li>
+    <li>Marinara sauce</li>
+    <li>Red pepper flakes</li>
+    <li>Nutritional yeast</li>
+</lu>
+<h3>Instructions</h3>
+<ol>
+    <li>Bring a large pot of water to a boil and salt the water generously. Add the pasta and cook according to the package directions just until al dente – don’t cook until soft, it will continue cooking in the sauce!</li>
+    <li>Meanwhile, slice or crumble the vegan sausage, depending on your variety (Beyond Meat crumbles; Field Roast slices).</li>
+    <li>Heat a large nonstick saute pan over medium-high heat. Once hot, add a touch of olive oil (if needed) and add the vegan sausage (if you have a good nonstick pan, you likely won't need oil). Cook, stirring occasionally, until the sausage is nicely browned.</li>
+    <li>While the sausage is cooking, mix the marinara sauce with the tomato paste, oregano, red pepper flakes, and nutritional yeast and stir to combine.</li>
+    <li>Once the sausage is mostly browned, add the spinach or kale and cook for 30-60 seconds until almost wilted but still bright green. Pour in the marinara sauce mixture and toss to combine.</li>
+    <li>Use a slotted spoon to transfer the hot cooked pasta from the pot into the saute pan. Toss the pasta with the sauce and sausage and stir to combine for about 1 minute.</li>
+    <li>Sprinkle with extra red pepper flakes or black pepper before serving, and top with basil or parsley.</li>
+</ol>
+</body>
+</html>
